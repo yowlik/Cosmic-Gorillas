@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723174206872",
+    "project_id": "maroon-fruits-ca190",
+    "storage_bucket": "maroon-fruits-ca190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723174206872:android:7e9d166fa120cd94a1cfed",
+        "android_client_info": {
+          "package_name": "com.sunsetgames.copcarsca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723174206872-bu948bbcsjp2u6nh8eajjm8n7e7d2svg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6tVgany2BNtPpHPV_RXopAl5EV8W9RY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723174206872-bu948bbcsjp2u6nh8eajjm8n7e7d2svg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

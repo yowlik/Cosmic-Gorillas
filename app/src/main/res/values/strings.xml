@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cosmic Gorillas</string>
+
+    <string name="image_chooser">Pick Your Image</string>
+    <string name="facebook_app_id">1357721431648747</string>
+    <string name="fb_login_protocol_scheme">fb1357721431648747</string>
+</resources>
